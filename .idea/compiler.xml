@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core" />
+        <module name="collectors" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="14">
+      <module name="collectors" target="9" />
+      <module name="core" target="1.7" />
+      <module name="java-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
