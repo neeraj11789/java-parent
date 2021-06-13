@@ -13,6 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="14">
+      <module name="apache-commons-lang" target="1.7" />
       <module name="collectors" target="9" />
       <module name="core" target="1.7" />
       <module name="java-parent" target="1.7" />

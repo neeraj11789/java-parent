@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/collectors/collectors.iml" filepath="$PROJECT_DIR$/collectors/collectors.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-commons-lang/core.iml" filepath="$PROJECT_DIR$/apache-commons-lang/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-parent.iml" filepath="$PROJECT_DIR$/java-parent.iml" />
     </modules>
   </component>
